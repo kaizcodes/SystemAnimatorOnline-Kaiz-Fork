@@ -4,7 +4,7 @@ A Windows/Electron-only fork of [XR Animator v0.36.0](https://github.com/ButzYun
 
 This fork removes everything desktop webcam mocap doesn't use. 
 
-And this fork is focus built for VTubers or people who needs full body tracking in other apps like Warudo / VSeeFace/ Any VMC receviers.
+Rebuilt for VTubers or people who needs full body tracking in other apps like Warudo / VSeeFace/ Any VMC receviers.
 
 Face tracking, full-body mocap, VMC streaming and motion recording still work.
 
