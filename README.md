@@ -19,7 +19,7 @@ Face tracking, full-body mocap, VMC streaming and motion recording still work.
 
 Electron isn't in the repo because `electron.exe` exceeds GitHub's 100 MB limit.
 
-1. Download from Releases
+1. Download from [Releases](https://github.com/kaizcodes/SystemAnimatorOnline-Kaiz-Fork/releases/tag/v1.0)
 2. Extract the zip
 3. Go to `XR-Animator_electron-v38.0.0-win32-x64_SA`
 4. Run `electron.exe`.
