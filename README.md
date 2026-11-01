@@ -1,6 +1,6 @@
 # XR Animator (trimmed fork)
 
-A Windows/Electron-only fork of [XR Animator v0.36.0](https://github.com/ButzYung/SystemAnimatorOnline) (System Animator v11.0.3.6) by ButzYung. It's a webcam mocap app that drives MMD (PMX/VMD) and VRM avatars using MediaPipe tracking and three.js, exports VMD/BVH/glTF, and streams over VMC/OSC.
+A Windows/Electron-only fork of [XR Animator v0.36.0](https://github.com/ButzYung/SystemAnimatorOnline) by ButzYung. It's a webcam mocap app that drives MMD (PMX/VMD) and VRM avatars using MediaPipe tracking and three.js, exports VMD/BVH/glTF, and streams over VMC/OSC.
 
 This fork removes everything desktop webcam mocap doesn't use. 
 
